@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Trey Turner also referred to as Rozlyn2001 she is someone special i encountered in my life
+- 👋 Hi, I’m Trey Turner also referred to as Rozlyn2001 because she had the biggest impact on my life
 - 👀 I’m interested in Web Development and building a work porfolio
 - 🌱 I’m currently learning Python,Java script, C++ and more languages
 - 💞️ I’m looking to collaborate on Websites
